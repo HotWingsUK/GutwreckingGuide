@@ -4,7 +4,7 @@
 
 Notes, tips, tricks etc to help you on your anal adventures
 
-https://hotwingsuk.github.io/GutwreckingGuide/
+[https://hotwingsuk.github.io/GutwreckingGuide/](https://hotwingsuk.github.io/GutwreckingGuide/)
 
 ## Contributing
 
@@ -14,5 +14,5 @@ It's a work in progress obviously!
 
 ## Guides
 
- - [Going Deep](goingDeep)
+ - [Going Deep](goingDeep.md)
 
