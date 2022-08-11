@@ -14,5 +14,12 @@ It's a work in progress obviously!
 
 ## Guides
 
+ - [Beginner's guide]
+ - [Choosing toys]
+ - [Cleaning Out]
+ - [Lube]
+ - [Fisting tips]
  - [Going Deep](goingDeep.md)
+ - [Footing](footing.md)
+
 
